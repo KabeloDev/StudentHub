@@ -45,8 +45,9 @@ Viewing a list of students:  <br/>
 <img src="https://i.imgur.com/S53oDMo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Deleting a student record:
+<br/>
+<img src="https://i.imgur.com/UbfjTwh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
