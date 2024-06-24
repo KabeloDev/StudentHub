@@ -3,18 +3,20 @@
  ### [YouTube Demonstration](https://youtu.be/49SeuCH-_Tk)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The project is a website designed for students to register, enroll using their credentials, contact administration and get updated on various University news. It also allows administrators to view and delete users that have registered and enrolled. This is all done using CRUD operations, authentication and authorization.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>C#</b> 
+- <b>ASP.NET Core MVC</b>
+- <b>HTML & CSS</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b>
+- <b>Visual studio 2022</b>
 
 <h2>Program walk-through:</h2>
 
