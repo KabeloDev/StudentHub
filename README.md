@@ -22,40 +22,32 @@ The project is a website designed for students to register, enroll using their c
 
 <p align="center">
 Register as a user: <br/>
-<img src="https://i.imgur.com/lSeMqXE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lSeMqXE.png" height="80%" width="80%" />
 <br />
 <br />
 Enroll as a student:  <br/>
-<img src="https://i.imgur.com/6mnHf0R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6mnHf0R.png" height="80%" width="80%" />
 <br />
 <br />
 Details of enrolled student: <br/>
-<img src="https://i.imgur.com/qBn6EGx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qBn6EGx.png" height="80%" width="80%" />
 <br />
 <br />
 Editing enrolled student:  <br/>
-<img src="https://i.imgur.com/K5futJU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K5futJU.png" height="80%" width="80%" />
 <br />
 <br />
 Logging in as admin:  <br/>
-<img src="https://i.imgur.com/QU6co3i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QU6co3i.png" height="80%" width="80%" />
 <br />
 <br />
 Viewing a list of students:  <br/>
-<img src="https://i.imgur.com/S53oDMo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S53oDMo.png" height="80%" width="80%" />
 <br />
 <br />
 Deleting a student record:
 <br/>
-<img src="https://i.imgur.com/UbfjTwh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UbfjTwh.png" height="80%" width="80%" />
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
