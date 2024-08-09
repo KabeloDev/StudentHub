@@ -21,6 +21,10 @@ The project is a website designed for students to register, enroll using their c
 <h2>Program walk-through:</h2>
 
 <p align="center">
+Home page: <br/>
+<img src="https://i.imgur.com/ohJgGQx.png" height="80%" width="80%" />
+<br />
+<br />
 Register as a user: <br/>
 <img src="https://i.imgur.com/lSeMqXE.png" height="80%" width="80%" />
 <br />
