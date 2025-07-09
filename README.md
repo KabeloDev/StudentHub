@@ -1,4 +1,4 @@
-<h1>Studend Hub</h1>
+<h1>Student Hub</h1>
 
  ### [YouTube Demonstration](https://youtu.be/49SeuCH-_Tk)
 
